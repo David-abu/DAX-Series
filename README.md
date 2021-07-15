@@ -2,7 +2,8 @@ DAX is the core of Power BI analytics and understanding this language helps you 
 This project helps you to understand basic DAX calculations and terminologies.
 The Youtube step by step link is https://bit.ly/DAX_Series
 
-These are the links to the Videos
+These are the links to the YouTube Playlists
+
 1. Introduction to DAX in Power BI
 
 https://www.youtube.com/watch?v=5EtP447LbPs            
